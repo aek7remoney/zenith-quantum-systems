@@ -3,49 +3,25 @@
 **Architectures for the Next Paradigm in Computation**  
 By Alejandro Efraín Kurday (Zenith)
 
-This repository unifies key breakthroughs in quantum information theory, teleportable computation, and predictive qubit logic into a cohesive framework. Built upon the ACTA model, this system expands with practical performance benchmarks and energy efficiency insights.
+This repository introduces a new layer of quantum computation theory rooted in teleportable information, fractal compression, and refractive temporal replication. It expands on ACTA (Active Quantum Teleportation Architecture) and pushes beyond traditional cloning limitations with a novel, compliant, and efficient model.
 
 ---
 
-## Core Papers
+## Latest Update:  
+### **Temporal Refractive Qubit Replication in Quantum Transport Fields**  
 
-### 1. Active Quantum Teleportation Architecture (ACTA)  
-A novel model where quantum computation is achieved by teleporting quantum states between two nodes, allowing logic to occur in transit.
+This paper presents a revolutionary concept: quantum replication without cloning.  
+A qubit, upon entering a low-density transitional field, refracts into temporary manifestations that execute simultaneous tasks across multiple vectors — before reintegrating into its original form.
 
-**Key Features:**
-- Cyclic qubit teleportation  
-- In-transit state collisions  
-- Trans-temporal processing  
+**Key Benefits:**
+- Compliant with the no-cloning theorem  
+- Multi-instance functional execution  
+- True non-local quantum processing  
+- **Performance boost: 6.7x – 10x vs traditional models**
 
-[Read ACTA whitepaper](./ACTA_Whitepaper_Updated.pdf)
+![Transport Diagram](./temporal_qubit_refraction_graph_alt.png)
 
----
-
-### 2. Predictive Qubit Cloning for Performance & Energy Efficiency  
-Extends ACTA by utilizing the transient shadow of a qubit during teleportation to perform predictive computation.
-
-**Highlights:**
-- Up to 5x faster execution  
-- Energy use reduced from 1000 µJ to 200 µJ  
-- Practical benchmarks and visual comparison
-
-[Download Performance Chart](./acta_cloning_performance.png)
-
----
-
-## System Vision
-
-Zenith Quantum Systems aims to:
-- Redefine how computation, memory, and transfer interact at the quantum level  
-- Enable ultra-fast AI and secure distributed simulations  
-- Introduce symbolic and fractal logic into quantum structures
-
----
-
-## Linked Projects
-
-- [Inverse Fractal Compression (Repo)](https://github.com/aek7remoney/inverse-fractal-compression)  
-- [Original ACTA Repo](https://github.com/aek7remoney/acta-quantum-architecture)
+**[Read the full whitepaper →](./Temporal_Refractive_Qubit_Replication.pdf)**
 
 ---
 
@@ -57,4 +33,4 @@ Argentina
 
 ---
 
-*All content is protected under provisional intellectual property rights.*
+*All contents are protected under provisional intellectual property rights.*
